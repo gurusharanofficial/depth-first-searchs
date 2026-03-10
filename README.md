@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name:SARUMATHY A </h3>
-<h3>Register Number:212224060240     </h3>
+<h3>Name:GURUSHARAN S </h3>
+<h3>Register Number:212224060088     </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
